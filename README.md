@@ -15,6 +15,7 @@
 ⚡️ [TCG Trends](https://tcgtrends.com/) <br>
 ▶️ [Playground](https://playgroundapp.com/) <br>
 🎁 [Purposit](https://www.purposit.com/) <br>
++50 projects and counting...
 
 ### Some stuff I built 👨🏻‍💻
 
