@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hey, I'm Andre! 👋
 
-<!--
-**avitorio/avitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Product Developer & Designer <br>
+🇧🇷 Born in Maceió, Brazil <br>
+🇫🇷 Living in Nice, France
 
-Here are some ideas to get you started:
+### Currently working with 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📡  [MIT Technology Review](https://technologyreview.com/) <br>
+
+
+### Previous clients 🛬
+
+🏆 [Hult Prize Foundation](https://www.hultprize.org/) <br>
+⚡️ [TCG Trends](https://tcgtrends.com/) <br>
+▶️ [Playground](https://playgroundapp.com/) <br>
+🎁 [Purposit](https://www.purposit.com/) <br>
+
+### Some stuff I built 👨🏻‍💻
+
+🚶🏻‍♀️ Taking you for a walk - [Outside Simulator](https://outsidesimulator.com/) <br>
+🌐 Helping you find the perfect domain - [Namixer](https://namixer.com)
+
+### How to reach me 📫
+
+🐦 [Twitter](https://twitter.com/andrevitorio) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/andrevitorio) <br>
+🚀 [Site](https://andrevitorio.com) <br>
