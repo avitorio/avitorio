@@ -1,7 +1,7 @@
 ### Hey, I'm Andre! 👋
 
 🤖 Product Developer & Designer <br>
-🇧🇷 Born in Maceió, Brazil <br>
+🇧🇷 From Maceió, Brazil <br>
 🇫🇷 Living in Nice, France
 
 ### Currently working with 🤝
