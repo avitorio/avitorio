@@ -8,7 +8,6 @@
 
 📡  [MIT Technology Review](https://technologyreview.com/) <br>
 
-
 ### Previous clients 🛬
 
 🏆 [Hult Prize Foundation](https://www.hultprize.org/) <br>
@@ -19,8 +18,9 @@
 
 ### Some stuff I built 👨🏻‍💻
 
+✍️ CMS for Static Websites - [Outstatic](https://outstatic.com) <br>
 🚶🏻‍♀️ Taking you for a walk - [Outside Simulator](https://outsidesimulator.com/) <br>
-🌐 Helping you find the perfect domain - [Namixer](https://namixer.com)
+🌐 Helping you find the perfect domain - [Namelazy](https://namelazy.com)
 
 ### How to reach me 📫
 
