@@ -24,6 +24,6 @@
 
 ### How to reach me 📫
 
-🐦 [Twitter](https://twitter.com/andrevitorio) <br>
+🐦 [𝕏](https://x.com/andrevitorio) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/andrevitorio) <br>
 🚀 [Site](https://andrevitorio.com) <br>
