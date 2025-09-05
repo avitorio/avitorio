@@ -5,12 +5,11 @@ Design Engineer
 ### Currently working with 🤝
 
 [MIT Technology Review](https://technologyreview.com/) <br>
+[Pacy](https://pacy.co/) <br>
 
 ### Previous 🛬
 
-[Pacy](https://pacy.co/) <br>
-[TCG Trends](https://tcgtrends.com/) <br>
-[Playground](https://playgroundapp.com/) <br>
+[Planetary](https://planetary.co/), [TCG Trends](https://tcgtrends.com/), [Playground](https://playgroundapp.com/), [HultPrize](https://www.hultprize.org/) and 50+ Clients...
 
 ### Some stuff I built 👨🏻‍💻
 
